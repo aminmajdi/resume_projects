@@ -1,0 +1,6 @@
+<launch>
+
+  <include file="$(find duckietown_demos)/launch/apriltag_detector.launch" />
+  <node pkg="sign_reader" name="sign_reader_node" type="sign_reader_node.py"/>
+
+</launch>

@@ -1,0 +1,8 @@
+<launch>
+  <include file="$(find duckietown_demos)/launch/lane_following.launch" />
+  <include file="$(find duckietown_demos)/launch/apriltag_detector.launch" />
+  <node pkg="arbiter" name="arbiter_node" type="arbiter_node.py" />
+  <node pkg="gentle_stop" name="gentle_stop_node" type="gentle_stop_node.py" />
+  <node pkg="sign_reader" name="sign_reader_node" type="sign_reader_node.py"/>
+
+</launch>

@@ -1,0 +1,12 @@
+<launch>
+
+  <group ns="homework_2">
+    <node pkg="homework1_code" name="talker" type="talker.py"/>
+    <node pkg="homework_2" name="my_node" type="my_node.py"/>
+
+    <remap from="chatter" to="my_topic"/>
+    <node pkg="homework1_code" name="listener" type="listener.py"/>
+
+  </group>
+
+</launch>

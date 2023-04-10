@@ -1,0 +1,8 @@
+<launch>
+
+  
+    <node pkg="homework9" name="color_filter_node" type="color_filter_node.py"/>
+    <node pkg="image_cropper" name="crop_node" type="crop_node.py"/>
+  
+
+</launch>

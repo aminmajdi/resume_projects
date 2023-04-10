@@ -1,0 +1,7 @@
+<launch>
+	<node pkg="homework1_code" name="talker" type="talker.py"/>
+  <group ns="homework3">
+    <node pkg="homework3" name="hw3_node" type="hw3_node.py"/>
+  </group>
+
+</launch>

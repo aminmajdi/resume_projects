@@ -1,0 +1,6 @@
+<launch>
+
+  <include file="$(find sign_reader)/launch/sign_reader.launch" />
+  <node pkg="arbiter" name="arbiter_node" type="arbiter_node.py" />
+  <node pkg="gentle_stop" name="gentle_stop_node" type="gentle_stop_node.py" />
+</launch>

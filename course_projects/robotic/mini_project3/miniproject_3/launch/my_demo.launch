@@ -1,0 +1,8 @@
+<launch>
+
+
+    <node pkg="miniproject_3" name="my_lane_detector_node" type="my_lane_detector_node.py"/>
+    <include file="$(find duckietown_demos)/launch/lane_following.launch"/>
+
+
+</launch>

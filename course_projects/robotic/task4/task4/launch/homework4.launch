@@ -1,0 +1,9 @@
+<launch>
+
+  <group ns="homework4">
+    <param name="mode" type="double" value="10" />
+    <node pkg="homework4" name="change_mode_server" type="change_mode_server.py"/>
+    <node pkg="homework4" name="query_mode_client" type="query_mode_client.py"/>
+  </group>
+
+</launch>

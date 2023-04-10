@@ -1,0 +1,8 @@
+<launch>
+
+
+    <node pkg="homework7" name="controller_node" type="controller_node.py"/>
+    <include file="$(find controls_hw)/launch/start_with_graph.launch"/>
+
+
+</launch>

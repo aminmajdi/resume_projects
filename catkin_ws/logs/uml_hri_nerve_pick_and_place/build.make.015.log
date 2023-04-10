@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[ 22%] Built target pick_and_place
+[ 22%] Built target std_msgs_generate_messages_py
+[ 22%] Built target std_msgs_generate_messages_eus
+[ 22%] Built target std_msgs_generate_messages_lisp
+[ 22%] Built target _uml_hri_nerve_pick_and_place_generate_messages_check_deps_AddTwoInts
+[ 22%] Built target _uml_hri_nerve_pick_and_place_generate_messages_check_deps_Num
+[ 22%] Built target std_msgs_generate_messages_nodejs
+[ 31%] Built target uml_hri_nerve_pick_and_place_generate_messages_cpp
+[ 45%] Built target uml_hri_nerve_pick_and_place_generate_messages_eus
+[ 63%] Built target uml_hri_nerve_pick_and_place_generate_messages_py
+[ 72%] Built target uml_hri_nerve_pick_and_place_generate_messages_lisp
+[ 81%] Built target uml_hri_nerve_pick_and_place_generate_messages_nodejs
+[ 81%] Built target uml_hri_nerve_pick_and_place_generate_messages
+[ 81%] Built target uml_hri_nerve_pick_and_place_gencpp
+[ 90%] Built target add_two_ints_server
+[100%] Built target add_two_ints_client

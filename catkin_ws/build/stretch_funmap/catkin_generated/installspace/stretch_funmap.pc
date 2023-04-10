@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: stretch_funmap
+Description: Description of stretch_funmap
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

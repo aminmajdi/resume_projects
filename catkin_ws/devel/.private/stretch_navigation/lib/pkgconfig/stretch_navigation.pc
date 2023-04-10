@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/stretch_navigation
+
+Name: stretch_navigation
+Description: Description of stretch_navigation
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/kinova_bringup
+
+Name: kinova_bringup
+Description: Description of kinova_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

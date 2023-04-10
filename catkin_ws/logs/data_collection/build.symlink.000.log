@@ -1,0 +1,3 @@
+Symlinking /home/csrobot/catkin_ws/devel/lib/pkgconfig/data_collection.pc
+Symlinking /home/csrobot/catkin_ws/devel/share/data_collection/cmake/data_collectionConfig.cmake
+Symlinking /home/csrobot/catkin_ws/devel/share/data_collection/cmake/data_collectionConfig-version.cmake

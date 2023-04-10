@@ -1,0 +1,5 @@
+armada_resources/armada_description
+/home/csrobot/catkin_ws/devel/.private/armada_description/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/armada_description/lib/pkgconfig/armada_description.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/armada_description.pc
+/home/csrobot/catkin_ws/devel/.private/armada_description/share/armada_description/cmake/armada_descriptionConfig-version.cmake /home/csrobot/catkin_ws/devel/share/armada_description/cmake/armada_descriptionConfig-version.cmake
+/home/csrobot/catkin_ws/devel/.private/armada_description/share/armada_description/cmake/armada_descriptionConfig.cmake /home/csrobot/catkin_ws/devel/share/armada_description/cmake/armada_descriptionConfig.cmake

@@ -1,0 +1,5 @@
+stretch_ros/stretch_description
+/home/csrobot/catkin_ws/devel/.private/stretch_description/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/stretch_description/lib/pkgconfig/stretch_description.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/stretch_description.pc
+/home/csrobot/catkin_ws/devel/.private/stretch_description/share/stretch_description/cmake/stretch_descriptionConfig-version.cmake /home/csrobot/catkin_ws/devel/share/stretch_description/cmake/stretch_descriptionConfig-version.cmake
+/home/csrobot/catkin_ws/devel/.private/stretch_description/share/stretch_description/cmake/stretch_descriptionConfig.cmake /home/csrobot/catkin_ws/devel/share/stretch_description/cmake/stretch_descriptionConfig.cmake

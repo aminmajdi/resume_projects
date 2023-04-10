@@ -1,0 +1,56 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target kortex_driver_generate_messages_eus[0m
+[35m[1mScanning dependencies of target kortex_driver_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target kortex_driver_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target kortex_driver_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target kortex_driver_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target kortex_driver_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target kortex_driver_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target kortex_driver_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target kortex_driver_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target kortex_driver_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target example_actuator_configuration_cpp[0m
+[35m[1mScanning dependencies of target example_full_arm_movement_cpp[0m
+[35m[1mScanning dependencies of target example_cartesian_poses_with_notifications_cpp[0m
+[35m[1mScanning dependencies of target example_vision_configuration_cpp[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/example_actuator_configuration_cpp.dir/src/actuator_config/example_actuator_configuration.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/example_cartesian_poses_with_notifications_cpp.dir/src/full_arm/example_cartesian_poses_with_notifications.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/example_vision_configuration_cpp.dir/src/vision_config/example_vision_configuration.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/example_full_arm_movement_cpp.dir/src/full_arm/example_full_arm_movement.cpp.o[0m
+[ 62%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_vision_configuration_cpp[0m
+[ 75%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_actuator_configuration_cpp[0m
+[ 75%] Built target example_vision_configuration_cpp
+[ 75%] Built target example_actuator_configuration_cpp
+[ 87%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp[0m
+[ 87%] Built target example_cartesian_poses_with_notifications_cpp
+[100%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_full_arm_movement_cpp[0m
+[100%] Built target example_full_arm_movement_cpp

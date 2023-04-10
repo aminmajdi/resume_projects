@@ -1,0 +1,5 @@
+uml_hri_nerve_armada_workstation
+/home/csrobot/catkin_ws/devel/.private/uml_hri_nerve_armada_workstation/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/uml_hri_nerve_armada_workstation/lib/pkgconfig/uml_hri_nerve_armada_workstation.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/uml_hri_nerve_armada_workstation.pc
+/home/csrobot/catkin_ws/devel/.private/uml_hri_nerve_armada_workstation/share/uml_hri_nerve_armada_workstation/cmake/uml_hri_nerve_armada_workstationConfig.cmake /home/csrobot/catkin_ws/devel/share/uml_hri_nerve_armada_workstation/cmake/uml_hri_nerve_armada_workstationConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/uml_hri_nerve_armada_workstation/share/uml_hri_nerve_armada_workstation/cmake/uml_hri_nerve_armada_workstationConfig-version.cmake /home/csrobot/catkin_ws/devel/share/uml_hri_nerve_armada_workstation/cmake/uml_hri_nerve_armada_workstationConfig-version.cmake

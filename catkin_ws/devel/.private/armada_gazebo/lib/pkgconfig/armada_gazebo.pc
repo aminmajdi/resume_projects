@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/armada_gazebo
+
+Name: armada_gazebo
+Description: Description of armada_gazebo
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

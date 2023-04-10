@@ -1,0 +1,5 @@
+kinova-ros/kinova_gazebo
+/home/csrobot/catkin_ws/devel/.private/kinova_gazebo/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/kinova_gazebo/lib/pkgconfig/kinova_gazebo.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/kinova_gazebo.pc
+/home/csrobot/catkin_ws/devel/.private/kinova_gazebo/share/kinova_gazebo/cmake/kinova_gazeboConfig-version.cmake /home/csrobot/catkin_ws/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig-version.cmake
+/home/csrobot/catkin_ws/devel/.private/kinova_gazebo/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake /home/csrobot/catkin_ws/devel/share/kinova_gazebo/cmake/kinova_gazeboConfig.cmake

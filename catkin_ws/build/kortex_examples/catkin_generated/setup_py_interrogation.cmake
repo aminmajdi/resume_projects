@@ -1,0 +1,7 @@
+set(kortex_examples_SETUP_PY_SETUP_MODULE "distutils.core")
+set(kortex_examples_SETUP_PY_VERSION "2.2.2")
+set(kortex_examples_SETUP_PY_SCRIPTS "")
+set(kortex_examples_SETUP_PY_PACKAGES "kortex_examples")
+set(kortex_examples_SETUP_PY_PACKAGE_DIRS "src/kortex_examples")
+set(kortex_examples_SETUP_PY_MODULES "")
+set(kortex_examples_SETUP_PY_MODULE_DIRS "")

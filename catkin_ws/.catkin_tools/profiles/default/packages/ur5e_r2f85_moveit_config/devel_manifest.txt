@@ -1,0 +1,5 @@
+armada_resources/ur5e_r2f85_moveit_config
+/home/csrobot/catkin_ws/devel/.private/ur5e_r2f85_moveit_config/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/ur5e_r2f85_moveit_config/lib/pkgconfig/ur5e_r2f85_moveit_config.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/ur5e_r2f85_moveit_config.pc
+/home/csrobot/catkin_ws/devel/.private/ur5e_r2f85_moveit_config/share/ur5e_r2f85_moveit_config/cmake/ur5e_r2f85_moveit_configConfig.cmake /home/csrobot/catkin_ws/devel/share/ur5e_r2f85_moveit_config/cmake/ur5e_r2f85_moveit_configConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/ur5e_r2f85_moveit_config/share/ur5e_r2f85_moveit_config/cmake/ur5e_r2f85_moveit_configConfig-version.cmake /home/csrobot/catkin_ws/devel/share/ur5e_r2f85_moveit_config/cmake/ur5e_r2f85_moveit_configConfig-version.cmake

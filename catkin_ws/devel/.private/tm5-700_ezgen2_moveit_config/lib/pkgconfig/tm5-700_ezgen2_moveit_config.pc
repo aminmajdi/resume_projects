@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/tm5-700_ezgen2_moveit_config
+
+Name: tm5-700_ezgen2_moveit_config
+Description: Description of tm5-700_ezgen2_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

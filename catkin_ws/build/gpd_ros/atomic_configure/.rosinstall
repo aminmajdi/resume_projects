@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/csrobot/catkin_ws/devel/.private/gpd_ros/setup.sh

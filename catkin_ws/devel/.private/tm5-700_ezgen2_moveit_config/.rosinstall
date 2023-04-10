@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/csrobot/catkin_ws/devel/.private/tm5-700_ezgen2_moveit_config/setup.sh

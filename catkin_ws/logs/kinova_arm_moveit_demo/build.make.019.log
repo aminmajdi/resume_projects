@@ -1,0 +1,14 @@
+[35m[1mScanning dependencies of target motion_plan[0m
+[35m[1mScanning dependencies of target test_accuracy[0m
+[35m[1mScanning dependencies of target pick_place[0m
+[ 12%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/work_scene[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/motion_plan.dir/src/motion_plan.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/pick_place.dir/src/pick_place.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/test_accuracy.dir/src/test_accuracy.cpp.o[0m
+[ 62%] Built target work_scene
+[ 75%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/motion_plan[0m
+[ 75%] Built target motion_plan
+[ 87%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/pick_place[0m
+[100%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/test_accuracy[0m
+[100%] Built target pick_place
+[100%] Built target test_accuracy

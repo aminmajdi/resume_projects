@@ -1,0 +1,59 @@
+CONAN_TARGET_PLATFORM is x86
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/csrobot/catkin_ws/devel/.private/kortex_driver
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/csrobot/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /home/csrobot/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/csrobot/catkin_ws/build/kortex_driver/test_results
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.17")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.29
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m Boost version: 1.65.1
+[36m--[0m Found the following Boost libraries:
+[36m--[0m   system
+[36m--[0m kortex_driver: 408 messages, 254 services
+[36m--[0m Conan: checking conan executable in path
+[36m--[0m Conan: Found program /usr/local/bin/conan
+[36m--[0m Conan: Version found Conan version 1.39.0-dev
+
+[36m--[0m Conan: Adding kinova_public remote repository (https://artifactory.kinovaapps.com/artifactory/api/conan/conan-public)
+[36m--[0m Conan: Automatic detection of conan settings from cmake
+[36m--[0m Conan: Settings= -s;build_type=Release;-s;compiler=gcc;-s;compiler.version=7;-s;compiler.libcxx=libstdc++11;-s;kortex_api_cpp:compiler=gcc;-s;kortex_api_cpp:compiler.version=5;-s;kortex_api_cpp:compiler.libcxx=libstdc++11
+[36m--[0m Conan executing: conan install /home/csrobot/catkin_ws/src/ros_kortex/kortex_driver/conanfile.py -s build_type=Release -s compiler=gcc -s compiler.version=7 -s compiler.libcxx=libstdc++11 -s kortex_api_cpp:compiler=gcc -s kortex_api_cpp:compiler.version=5 -s kortex_api_cpp:compiler.libcxx=libstdc++11 -g=cmake --update
+Configuration:
+[settings]
+arch=x86_64
+arch_build=x86_64
+build_type=Release
+compiler=gcc
+compiler.libcxx=libstdc++11
+compiler.version=7
+os=Linux
+os_build=Linux
+kortex_api_cpp:compiler=gcc
+kortex_api_cpp:compiler.version=5
+kortex_api_cpp:compiler.libcxx=libstdc++11
+[options]
+[build_requires]
+[env]
+
+[31m[1mCMake Error[0m at /home/csrobot/catkin_ws/src/ros_kortex/kortex_driver/cmake/conan.cmake:399 (message):
+  Conan install failed='1'
+[36mCall Stack (most recent call first):[0m
+  cmake/conan.cmake:485 (conan_cmake_install)
+  CMakeLists.txt:70 (conan_cmake_run)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/csrobot/catkin_ws/build/kortex_driver/CMakeFiles/CMakeOutput.log".
+See also "/home/csrobot/catkin_ws/build/kortex_driver/CMakeFiles/CMakeError.log".
+Makefile:12768: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

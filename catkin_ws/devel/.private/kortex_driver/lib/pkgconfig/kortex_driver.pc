@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/kortex_driver
+
+Name: kortex_driver
+Description: Description of kortex_driver
+Version: 2.2.2
+Cflags: -I/home/csrobot/catkin_ws/devel/.private/kortex_driver/include
+Libs: -L${prefix}/lib 
+Requires: 

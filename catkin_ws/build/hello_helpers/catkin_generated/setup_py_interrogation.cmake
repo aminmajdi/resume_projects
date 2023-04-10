@@ -1,0 +1,7 @@
+set(hello_helpers_SETUP_PY_SETUP_MODULE "distutils.core")
+set(hello_helpers_SETUP_PY_VERSION "0.2.0")
+set(hello_helpers_SETUP_PY_SCRIPTS "")
+set(hello_helpers_SETUP_PY_PACKAGES "hello_helpers")
+set(hello_helpers_SETUP_PY_PACKAGE_DIRS "src/hello_helpers")
+set(hello_helpers_SETUP_PY_MODULES "")
+set(hello_helpers_SETUP_PY_MODULE_DIRS "")

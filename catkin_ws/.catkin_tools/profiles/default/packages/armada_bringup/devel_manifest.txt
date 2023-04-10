@@ -1,0 +1,5 @@
+armada_resources/armada_bringup
+/home/csrobot/catkin_ws/devel/.private/armada_bringup/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/armada_bringup/lib/pkgconfig/armada_bringup.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/armada_bringup.pc
+/home/csrobot/catkin_ws/devel/.private/armada_bringup/share/armada_bringup/cmake/armada_bringupConfig.cmake /home/csrobot/catkin_ws/devel/share/armada_bringup/cmake/armada_bringupConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/armada_bringup/share/armada_bringup/cmake/armada_bringupConfig-version.cmake /home/csrobot/catkin_ws/devel/share/armada_bringup/cmake/armada_bringupConfig-version.cmake

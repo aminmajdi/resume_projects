@@ -1,0 +1,24 @@
+[settings]
+
+
+[requires]
+    kortex_api_cpp/2.Y.Z
+
+[options]
+
+
+[full_settings]
+
+
+[full_requires]
+    kortex_api_cpp/2.2.0-r.31@kortex/stable:e0a5f09381701303d00b3eed165788a9fa5beecd
+
+[full_options]
+    kortex_api_cpp:shared=False
+    kortex_api_cpp:target=x86
+
+[recipe_hash]
+
+
+[env]
+

@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/gazebo_version_helpers
+
+Name: gazebo_version_helpers
+Description: Description of gazebo_version_helpers
+Version: 0.0.0
+Cflags: -I/home/csrobot/catkin_ws/src/ros_kortex/third_party/gazebo-pkgs/gazebo_version_helpers/include
+Libs: -L${prefix}/lib -lgazebo_version_helpers
+Requires: gazebo_ros roscpp

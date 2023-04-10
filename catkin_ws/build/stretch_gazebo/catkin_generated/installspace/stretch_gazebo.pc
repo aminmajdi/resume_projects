@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: stretch_gazebo
+Description: Description of stretch_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

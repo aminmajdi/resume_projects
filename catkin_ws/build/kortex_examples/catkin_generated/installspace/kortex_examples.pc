@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: kortex_examples
+Description: Description of kortex_examples
+Version: 2.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

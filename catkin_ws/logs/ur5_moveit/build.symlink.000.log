@@ -1,0 +1,3 @@
+Symlinking /home/csrobot/catkin_ws/devel/lib/pkgconfig/ur5_moveit.pc
+Symlinking /home/csrobot/catkin_ws/devel/share/ur5_moveit/cmake/ur5_moveitConfig.cmake
+Symlinking /home/csrobot/catkin_ws/devel/share/ur5_moveit/cmake/ur5_moveitConfig-version.cmake

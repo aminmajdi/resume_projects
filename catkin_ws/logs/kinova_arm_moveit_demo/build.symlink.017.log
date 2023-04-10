@@ -1,0 +1,5 @@
+Linked: (/home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/pkgconfig/kinova_arm_moveit_demo.pc, /home/csrobot/catkin_ws/devel/lib/pkgconfig/kinova_arm_moveit_demo.pc)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/pick_place, /home/csrobot/catkin_ws/devel/lib/kinova_arm_moveit_demo/pick_place)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/test_accuracy, /home/csrobot/catkin_ws/devel/lib/kinova_arm_moveit_demo/test_accuracy)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/work_scene, /home/csrobot/catkin_ws/devel/lib/kinova_arm_moveit_demo/work_scene)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kinova_arm_moveit_demo/lib/kinova_arm_moveit_demo/motion_plan, /home/csrobot/catkin_ws/devel/lib/kinova_arm_moveit_demo/motion_plan)

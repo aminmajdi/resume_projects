@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/demo_moveit_config
+
+Name: demo_moveit_config
+Description: Description of demo_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

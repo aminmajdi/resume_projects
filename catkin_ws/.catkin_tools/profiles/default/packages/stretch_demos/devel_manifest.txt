@@ -1,0 +1,5 @@
+stretch_ros/stretch_demos
+/home/csrobot/catkin_ws/devel/.private/stretch_demos/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/stretch_demos/lib/pkgconfig/stretch_demos.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/stretch_demos.pc
+/home/csrobot/catkin_ws/devel/.private/stretch_demos/share/stretch_demos/cmake/stretch_demosConfig-version.cmake /home/csrobot/catkin_ws/devel/share/stretch_demos/cmake/stretch_demosConfig-version.cmake
+/home/csrobot/catkin_ws/devel/.private/stretch_demos/share/stretch_demos/cmake/stretch_demosConfig.cmake /home/csrobot/catkin_ws/devel/share/stretch_demos/cmake/stretch_demosConfig.cmake

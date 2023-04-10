@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/csrobot/catkin_ws/devel/.private/data_collection/setup.sh

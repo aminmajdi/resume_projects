@@ -1,0 +1,8 @@
+Symlinking /home/csrobot/catkin_ws/devel/lib/pkgconfig/kortex_examples.pc
+Symlinking /home/csrobot/catkin_ws/devel/lib/python2.7/dist-packages/kortex_examples/__init__.py
+Symlinking /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_vision_configuration_cpp
+Symlinking /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp
+Symlinking /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_actuator_configuration_cpp
+Symlinking /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_full_arm_movement_cpp
+Symlinking /home/csrobot/catkin_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake
+Symlinking /home/csrobot/catkin_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig.cmake

@@ -1,0 +1,8 @@
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/pkgconfig/kortex_examples.pc, /home/csrobot/catkin_ws/devel/lib/pkgconfig/kortex_examples.pc)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/python2.7/dist-packages/kortex_examples/__init__.py, /home/csrobot/catkin_ws/devel/lib/python2.7/dist-packages/kortex_examples/__init__.py)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_vision_configuration_cpp, /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_vision_configuration_cpp)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp, /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_cartesian_poses_with_notifications_cpp)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_actuator_configuration_cpp, /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_actuator_configuration_cpp)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/lib/kortex_examples/example_full_arm_movement_cpp, /home/csrobot/catkin_ws/devel/lib/kortex_examples/example_full_arm_movement_cpp)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake, /home/csrobot/catkin_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig-version.cmake)
+Linked: (/home/csrobot/catkin_ws/devel/.private/kortex_examples/share/kortex_examples/cmake/kortex_examplesConfig.cmake, /home/csrobot/catkin_ws/devel/share/kortex_examples/cmake/kortex_examplesConfig.cmake)

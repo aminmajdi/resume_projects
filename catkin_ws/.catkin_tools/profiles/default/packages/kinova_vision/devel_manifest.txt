@@ -1,0 +1,7 @@
+ros_kortex_vision
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/lib/libKinovaVision.so /home/csrobot/catkin_ws/devel/lib/libKinovaVision.so
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/lib/kinova_vision/kinova_vision /home/csrobot/catkin_ws/devel/lib/kinova_vision/kinova_vision
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/lib/pkgconfig/kinova_vision.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/kinova_vision.pc
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/share/kinova_vision/cmake/kinova_visionConfig.cmake /home/csrobot/catkin_ws/devel/share/kinova_vision/cmake/kinova_visionConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/kinova_vision/share/kinova_vision/cmake/kinova_visionConfig-version.cmake /home/csrobot/catkin_ws/devel/share/kinova_vision/cmake/kinova_visionConfig-version.cmake

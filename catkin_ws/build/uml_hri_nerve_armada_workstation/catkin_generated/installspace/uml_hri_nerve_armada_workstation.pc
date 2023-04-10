@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: uml_hri_nerve_armada_workstation
+Description: Description of uml_hri_nerve_armada_workstation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,3 @@
+Symlinking /home/csrobot/catkin_ws/devel/lib/pkgconfig/gen3_robotiq_2f_140_move_it_config.pc
+Symlinking /home/csrobot/catkin_ws/devel/share/gen3_robotiq_2f_140_move_it_config/cmake/gen3_robotiq_2f_140_move_it_configConfig.cmake
+Symlinking /home/csrobot/catkin_ws/devel/share/gen3_robotiq_2f_140_move_it_config/cmake/gen3_robotiq_2f_140_move_it_configConfig-version.cmake

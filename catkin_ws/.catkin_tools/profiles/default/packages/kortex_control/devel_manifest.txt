@@ -1,0 +1,5 @@
+ros_kortex/kortex_control
+/home/csrobot/catkin_ws/devel/.private/kortex_control/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/kortex_control/lib/pkgconfig/kortex_control.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/kortex_control.pc
+/home/csrobot/catkin_ws/devel/.private/kortex_control/share/kortex_control/cmake/kortex_controlConfig.cmake /home/csrobot/catkin_ws/devel/share/kortex_control/cmake/kortex_controlConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/kortex_control/share/kortex_control/cmake/kortex_controlConfig-version.cmake /home/csrobot/catkin_ws/devel/share/kortex_control/cmake/kortex_controlConfig-version.cmake

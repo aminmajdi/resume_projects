@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/kinova_msgs
+
+Name: kinova_msgs
+Description: Description of kinova_msgs
+Version: 0.0.1
+Cflags: -I/home/csrobot/catkin_ws/devel/.private/kinova_msgs/include
+Libs: -L${prefix}/lib 
+Requires: actionlib_msgs geometry_msgs message_runtime

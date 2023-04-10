@@ -1,0 +1,4 @@
+[ 25%] Built target work_scene
+[ 50%] Built target pick_place
+[ 75%] Built target motion_plan
+[100%] Built target test_accuracy

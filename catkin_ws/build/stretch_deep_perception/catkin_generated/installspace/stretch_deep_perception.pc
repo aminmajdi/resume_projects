@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: stretch_deep_perception
+Description: Description of stretch_deep_perception
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/csrobot/catkin_ws/devel/.private/gen3_robotiq_2f_85_move_it_config/setup.sh

@@ -1,0 +1,9 @@
+CONAN_TARGET_PLATFORM is x86
+[31m[1mCMake Error[0m at /home/csrobot/catkin_ws/src/ros_kortex/kortex_driver/cmake/conan.cmake:399 (message):
+  Conan install failed='1'
+[36mCall Stack (most recent call first):[0m
+  cmake/conan.cmake:485 (conan_cmake_install)
+  CMakeLists.txt:70 (conan_cmake_run)
+
+
+make: *** [cmake_check_build_system] Error 1

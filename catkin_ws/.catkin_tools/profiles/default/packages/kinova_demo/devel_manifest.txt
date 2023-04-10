@@ -1,0 +1,6 @@
+kinova-ros/kinova_demo
+/home/csrobot/catkin_ws/devel/.private/kinova_demo/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/kinova_demo/lib/pkgconfig/kinova_demo.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/kinova_demo.pc
+/home/csrobot/catkin_ws/devel/.private/kinova_demo/lib/python2.7/dist-packages/kinova_demo/__init__.py /home/csrobot/catkin_ws/devel/lib/python2.7/dist-packages/kinova_demo/__init__.py
+/home/csrobot/catkin_ws/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig.cmake /home/csrobot/catkin_ws/devel/share/kinova_demo/cmake/kinova_demoConfig.cmake
+/home/csrobot/catkin_ws/devel/.private/kinova_demo/share/kinova_demo/cmake/kinova_demoConfig-version.cmake /home/csrobot/catkin_ws/devel/share/kinova_demo/cmake/kinova_demoConfig-version.cmake

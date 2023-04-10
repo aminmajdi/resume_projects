@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/install
+
+Name: hello_helpers
+Description: Description of hello_helpers
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

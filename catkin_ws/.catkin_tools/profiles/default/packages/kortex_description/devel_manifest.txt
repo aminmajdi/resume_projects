@@ -1,0 +1,5 @@
+ros_kortex/kortex_description
+/home/csrobot/catkin_ws/devel/.private/kortex_description/cmake.lock /home/csrobot/catkin_ws/devel/./cmake.lock
+/home/csrobot/catkin_ws/devel/.private/kortex_description/lib/pkgconfig/kortex_description.pc /home/csrobot/catkin_ws/devel/lib/pkgconfig/kortex_description.pc
+/home/csrobot/catkin_ws/devel/.private/kortex_description/share/kortex_description/cmake/kortex_descriptionConfig-version.cmake /home/csrobot/catkin_ws/devel/share/kortex_description/cmake/kortex_descriptionConfig-version.cmake
+/home/csrobot/catkin_ws/devel/.private/kortex_description/share/kortex_description/cmake/kortex_descriptionConfig.cmake /home/csrobot/catkin_ws/devel/share/kortex_description/cmake/kortex_descriptionConfig.cmake

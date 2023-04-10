@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/kortex_gazebo
+
+Name: kortex_gazebo
+Description: Description of kortex_gazebo
+Version: 2.2.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

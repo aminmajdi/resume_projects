@@ -1,0 +1,8 @@
+prefix=/home/csrobot/catkin_ws/devel/.private/data_collection
+
+Name: data_collection
+Description: Description of data_collection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

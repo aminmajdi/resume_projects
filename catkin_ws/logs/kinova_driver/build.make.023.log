@@ -1,0 +1,95 @@
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_nodejs
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target kinova_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target visualization_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target kinova_msgs_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target kinova_msgs_generate_messages_nodejs
+[  0%] Built target kinova_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target kinova_msgs_generate_messages_eus
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target visualization_msgs_generate_messages_eus
+[  0%] Built target kinova_driver_gencfg
+[  0%] Built target visualization_msgs_generate_messages_lisp
+[  0%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target joint_trajectory_action_server[0m
+[35m[1mScanning dependencies of target gripper_command_action_server[0m
+[35m[1mScanning dependencies of target kinova_tf_updater[0m
+[35m[1mScanning dependencies of target kinova_driver[0m
+[  4%] [32mBuilding CXX object CMakeFiles/joint_trajectory_action_server.dir/src/joint_trajectory_action/joint_trajectory_action_server.cpp.o[0m
+[  9%] [32mBuilding CXX object CMakeFiles/gripper_command_action_server.dir/src/joint_trajectory_action/gripper_command_action_server.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/kinova_tf_updater.dir/src/kinova_ros_types.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/kinova_tf_updater.dir/src/nodes/kinova_tf_updater.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/kinova_tf_updater.dir/src/kinova_arm_kinematics.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_api.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_comm.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_joint_angles_action.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_ros_types.cpp.o[0m
+[ 47%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_fingers_action.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_arm.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_joint_trajectory_controller.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/kinova_driver.dir/src/kinova_tool_pose_action.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_tf_updater[0m
+[ 66%] Built target kinova_tf_updater
+[ 71%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/joint_trajectory_action_server[0m
+[ 71%] Built target joint_trajectory_action_server
+[ 76%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/gripper_command_action_server[0m
+[ 76%] Built target gripper_command_action_server
+[ 80%] [32m[1mLinking CXX shared library /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/libkinova_driver.so[0m
+[ 80%] Built target kinova_driver
+[35m[1mScanning dependencies of target kinova_interactive_control[0m
+[35m[1mScanning dependencies of target kinova_arm_driver[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/kinova_arm_driver.dir/src/nodes/kinova_arm_driver.cpp.o[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/kinova_interactive_control.dir/src/nodes/kinova_interactive_control.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_arm_driver[0m
+[ 95%] Built target kinova_arm_driver
+[100%] [32m[1mLinking CXX executable /home/csrobot/catkin_ws/devel/.private/kinova_driver/lib/kinova_driver/kinova_interactive_control[0m
+[100%] Built target kinova_interactive_control

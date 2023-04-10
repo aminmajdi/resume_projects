@@ -1,0 +1,10 @@
+					density			sophistication			diversity
+density				0.9999999999999998	-0.4967950601824595	-0.0629266267966609
+sophistication		-0.4967950601824595	0.9999999999999989	0.2285861095800077
+diversity			-0.0629266267966609	0.2285861095800077	0.9999999999999968
+
+
+The values on the diagnal are all ~1 which is due to self corelation. The result of the table above shows that the linear corelation
+between sophistication and dencity is higher than the other two. Diversity and density have the lowest corelation, because having Noun,Verb,adj 
+or adv does not change the diversity of the tweet. On the other hand, the results shoes that if we have more of the open-class words, the chance 
+of having more sophisticated words goes up.

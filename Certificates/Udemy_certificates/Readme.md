@@ -1,2 +1,2 @@
 # CERTIFICATES
-![alt text](https://github.com/aminmajdi/resume_projects/commit/660b41972468c117eebd34f54fff64a00daa1aa1)
+![alt text](https://github.com/aminmajdi/resume_projects/blob/main/Certificates/Udemy_certificates/Time_series_udemy.jpg)
